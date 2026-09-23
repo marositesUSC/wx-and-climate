@@ -1,0 +1,48 @@
+SUMMARY INFORMATION FOR SOUNDING "71841A"
+=========================================
+
+Station Name             : Bull Street Garage 23 September 2026
+.       WMO Number       : /////
+.       ICAO Number      : /////
+.       Mobile Call Sign : /////
+.       Latitude         : 33°59'43.0"N
+.       Longitude        : 081°01'33.0"W
+.       Altitude (MSL)   : 96m
+
+Sonde   Type             : iMet-4-AB
+.       Serial Number    : 71841
+
+Surface Pressure         : 1011.75hPa
+.       Temperature      : +22.2°C
+.       Humidity         : 69%
+.       Wind Speed       : 8.0kts
+.       Wind Direction   : 20.0°
+.       Cloud Code       : /////
+
+Launched (UTC)           : 3/17/2013 4:10:31 PM
+
+--------------------------------------------------------------------------------
+
+Operator                 : bmarosites
+
+Balloon             Make : Kaymont
+.                 Weight : 100
+.                    Age : 
+
+Data    Minimum Pressure : 735.71hPa
+.       Maximum Altitude : 2703m
+.            Ascent Rate : 174m/min
+.    Maximum Temperature : +22.2°C
+.    Minimum Temperature : +8.9°C
+.    Maximum Humidity    : 100%
+.    Minimum Humdity     : 69%
+.    Maximum Slant Range : 5.952km
+.      Final Slant Range : 5.952km
+.        Final Elevation : 27.0°
+
+Termination (UTC)        : 3/17/2013 4:32:34 PM
+.                 Source : Automatic
+.                 Reason : Excessive missing data frames
+.        Ascent Duration : 0 hours 15 minutes 34 seconds
+
+--------------------------------------------------------------------------------
