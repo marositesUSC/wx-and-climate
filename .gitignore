@@ -1,0 +1,8 @@
+# Private configuration
+config.yml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
